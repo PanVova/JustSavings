@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=hM1PMxWp5I8&feature=youtu.be
 # ![alt text](https://github.com/PanVova/JustSavings/blob/master/photo_2020-08-24_20-07-38.jpg)
 # ![alt text](https://github.com/PanVova/JustSavings/blob/master/photo_2020-08-24_20-07-43.jpg)
 # ![alt text](https://github.com/PanVova/JustSavings/blob/master/photo_2020-08-24_20-07-55.jpg)
-# ![alt text](https://github.com/PanVova/JustSavings/blob/master/video_2020-08-24_20-25-21.mp4)
+
